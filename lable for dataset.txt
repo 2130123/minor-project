@@ -1,0 +1,6 @@
+No disease (0: No signs of infection)
+Resistant (R: Minor signs of infection)
+Moderately Resistant (MR: Small and medium signs of infection)
+Moderately Resistant—Moderately Susceptible (MRMS)
+Moderately Susceptible (MS: Medium signs of infection) 
+Susceptible (S: Major signs of infection)
